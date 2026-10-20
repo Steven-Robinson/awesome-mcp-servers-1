@@ -521,6 +521,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Time](https://github.com/TheoBrigitte/mcp-time)** - MCP server which provides utilities to work with time and dates, with natural language, multiple formats and timezone convertion capabilities.
 - **[Tmux](https://github.com/nickgnd/tmux-mcp)** - Interact with your Tmux sessions, windows and pane, execute commands in tmux panes and retrieve result.
 - **[Todoist](https://github.com/stanislavlysenko0912/todoist-mcp-server)** - Full implementation of Todoist Rest API for MCP server
+- **[Touchline Wire](https://github.com/Steven-Robinson/touchlinewire-mcp)** - Premier League matchday intelligence: verified starting lineups, tactical formations, live match reports with chronological event timelines, squad injuries, fixtures and standings.
 - **[Trello](https://github.com/m0xai/trello-mcp-server)** - Trello integration for working with boards, lists in boards and cards in lists.
 - **[Trello MCP](https://github.com/kocakli/Trello-Desktop-MCP)** - Trello Desktop MCP server that enables Claude Desktop to interact with Trello boards, cards, lists, and team members through natural language commands.
 - **[Terragrunt-Docs](https://github.com/Excoriate/mcp-terragrunt-docs)** - Terragrunt documentation always up to date.
